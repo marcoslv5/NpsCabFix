@@ -12,7 +12,7 @@ public class Constants {
 	public static final String CONFIG_FILE_CSV= "file.csv";
 	public static final String CONFIG_DB_USER= "db.user";
 	public static final String CONFIG_DB_PWD= "db.password";
-	public static final String CONFIG_DB_HOST= "db.password";
+	public static final String CONFIG_DB_HOST= "db.host";
 	
 //	public static String DB_HOST_TEST;// = "p1npspdb-tran-scan.sisalpay5group.local:1521/paytranart.sisalpay5group.local";
 //	public static String DB_USER_TEST;// = "PERSEO_TRX_APP";
